@@ -1,0 +1,59 @@
+
+/*Navbar*/
+nav{
+    height:7vh;
+}
+
+/*Header*/
+.content{
+    height: 50vh;
+    background-color: #222831;
+    text-align: center;
+    padding: 3vh 2vw;
+}
+#head-h1{
+    font-size: 6vw;
+    color: #222831FF;
+    font-weight: bold;
+    border-radius: 30px;
+}
+#head-p{
+    font-size: 2.1vw;
+    color:white;
+    padding: 4vh 5vw;
+    line-height: 3.5vw;
+    overflow: scroll;
+    border: 1px hidden;
+}
+#trophy{
+    width: 20vw;
+    height: 40vh;
+    min-height: 8vh;
+    min-width: 4vw;
+}
+.text-muted{
+    font-weight: bold;
+}
+
+/*Section*/
+section{
+    height: 180vh;
+    background-color: #393E46;
+    padding: 4vh 0;
+}
+.karusel{
+    width: 70vw;
+    aspect-ratio: 16/9;
+    margin: auto;
+    border: black solid 2px;
+    box-shadow: rgba(0,0,0,0.3) 10px 10px;
+}
+.karusel-kartinka{
+    width: 70vw;
+    aspect-ratio: 16/9;
+}
+/*Footer*/
+footer{
+    height:40vh;
+    background-color: #222831;
+}

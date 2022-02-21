@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626220874_22-kartinkin-com-p-krovavie-oblaka-art-art-krasivo-25.jpg);
+}
+.line, .bottom-line{
+    width: 100%;
+    height: 5vh;
+    background-color: #898fe0;
+    border: black;
+    box-shadow: 4px 4px 5px rgba(250, 50, 50, .4);
+    padding-left: 0;
+    margin-bottom: 2px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+.button {
+    color: black;
+    padding: 12px 32px;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #001C41;
+    border: 2px solid #6f4481;
+    height: 80%;
+    width: 120%;
+}
+.button:hover {
+    color: darkkhaki;
+    background-color: darkkhaki;
+}
+.content{
+    background-color: darkkhaki;
+    width: 60%;
+}
+
+.card-size{
+    width: 30%;
+}
+.bg-hotpink{
+    background-color: hotpink;
+}
+
